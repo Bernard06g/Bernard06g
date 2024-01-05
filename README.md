@@ -3,10 +3,12 @@
 
 ### 🛠️ Tecnologías y Lenguajes 
 
-- **Lenguajes de Programación:** C++, C#
+- **Lenguajes de Programación:** C++, C#.
 - **Tecnologías Front-end:** Angular.
 - **Bases de Datos:** PostgreSQL, Oracle SQL.
+- **Sistemas Operativos:** Linux, Windows.
 - **Herramientas de Desarrollo:** Git, Visual Studio, VSCode.
+
 
 ### 🌱 Actualmente Aprendiendo
 
@@ -21,11 +23,11 @@ Enfocado en ampliar mis conocimientos en **Back-End**:
 
 Adquirí conocimientos fundamentales de C# y experiencia en la metodología Scrum durante este proyecto.
 
-2. 
+2. ** **
 
-### 📫 Conéctate Conmigo
+### 📫 Contacto
 
-¡Me encantaría conectarme y aprender juntos! Encuéntrame en [LinkedIn](enlace-a-tu-linkedin) y [Twitter](enlace-a-tu-twitter).
+[LinkedIn](enlace-a-tu-linkedin) y [Twitter](enlace-a-tu-twitter).
 
 ### 🚀 Objetivos Futuros
 
