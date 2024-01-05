@@ -1,4 +1,30 @@
 ### Hi there 👋
+# Nombre del Proyecto
+
+## Descripción
+Breve descripción de tu proyecto.
+
+## Funcionalidades
+- Lista de características o funcionalidades principales.
+
+## Capturas de Pantalla
+Inserta imágenes que muestren tu proyecto.
+
+## Instalación
+Proporciona instrucciones para instalar y configurar el proyecto.
+
+## Uso
+Explica cómo utilizar tu proyecto y proporciona ejemplos.
+
+## Contribuciones
+Indica cómo otros desarrolladores pueden contribuir al proyecto.
+
+## Autor
+Tu nombre y, opcionalmente, información de contacto.
+
+## Licencia
+Especifica la licencia bajo la cual se distribuye tu proyecto.
+
 
 <!--
 **Bernard06g/Bernard06g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
