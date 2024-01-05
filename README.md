@@ -27,10 +27,10 @@ Adquirí conocimientos fundamentales de C# y experiencia en la metodología Scru
 
 ### 📫 Contacto
 
-[LinkedIn](enlace-a-tu-linkedin) y [Twitter](enlace-a-tu-twitter).
+[LinkedIn](https://www.linkedin.com/in/bernard-gonz%C3%A1lez-castro/) y [Gmail](enlace-a-tu-twitter).
 
 ### 🚀 Objetivos Futuros
 
-Mi objetivo es contribuir al mundo de la tecnología y la ingeniería, creando soluciones innovadoras y aprendiendo de cada experiencia. ¡Si tienes alguna idea interesante o proyecto, estaré encantado de colaborar!
+
 
 
