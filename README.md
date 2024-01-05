@@ -8,6 +8,7 @@
 - **Bases de Datos:** PostgreSQL, Oracle SQL.
 - **Sistemas Operativos:** Linux, Windows.
 - **Herramientas de Desarrollo:** Git, Visual Studio, VSCode.
+- Experiencia en la metodología ágil **Scrum**
 
 
 ### 🌱 Actualmente Aprendiendo
