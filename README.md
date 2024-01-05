@@ -20,11 +20,12 @@ Enfocado en ampliar mis conocimientos en **Back-End**:
 
 ### 👨‍💻 Proyectos Destacados
 
-1.**[Sistema de Expedientes Digitales] (Desarrollado como parte de trabajo universitario con una empresa real)**
+1.**Sistema de Expedientes Digitale (Desarrollado como parte de trabajo universitario con una empresa real)**
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/bernard-gonz%C3%A1lez-castro/) y [Gmail](enlace-a-tu-twitter).
+[LinkedIn](https://www.linkedin.com/in/bernard-gonz%C3%A1lez-castro/) y [Gmail](mailto:bernard06g@gmail.com)
+
 
 ### 🚀 Objetivos Futuros
 
