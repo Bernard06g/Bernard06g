@@ -21,8 +21,6 @@ Enfocado en ampliar mis conocimientos en **Back-End**:
 
 1.**[Sistema de Expedientes Digitales] (Desarrollado como parte de trabajo universitario con una empresa real)**
 
-Adquirí conocimientos fundamentales de C# y experiencia en la metodología Scrum durante este proyecto.
-
 2. ** **
 
 ### 📫 Contacto
