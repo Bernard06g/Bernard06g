@@ -3,7 +3,7 @@
 
 ### 🛠️ Tecnologías y Lenguajes 
 
-- **Lenguajes de Programación:** C++, C#.
+- **Lenguajes de Programación:** C++, C#, HTML, CSS, JavaScript.
 - **Tecnologías Front-end:** Angular.
 - **Bases de Datos:** PostgreSQL, Oracle SQL.
 - **Sistemas Operativos:** Linux, Windows.
