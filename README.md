@@ -21,7 +21,7 @@ Enfocado en ampliar mis conocimientos en **Back-End**:
 
 1.**[Sistema de Expedientes Digitales] (Desarrollado como parte de trabajo universitario con una empresa real)**
 
-2. ** **
+2. **Web api**
 
 ### 📫 Contacto
 
