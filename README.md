@@ -13,13 +13,14 @@
 Enfocado en ampliar mis conocimientos en **Back-End**:
 
 - Construcción de servicios escalables para aplicaciones web.
-- Investigación y práctica en **Seguridad Informática**.
-
+- Uso de **Python** para el desarrollo back-end con Django.
 
 ### 👨‍💻 Proyectos Destacados
 
-1. **[Proyecto Genial](enlace-al-proyecto-genial):** Breve descripción del proyecto y lo que aprendí de él.
-2. **[Otro Proyecto Increíble](enlace-al-otro-proyecto):** Detalles sobre otro proyecto interesante.
+1.**[Sistema de Expedientes Digitales] (Desarrollado como parte de trabajo universitario con una empresa real)**
+Adquirí conocimientos fundamentales de C# y experiencia en la metodología Scrum durante este proyecto.
+
+2. 
 
 ### 📫 Conéctate Conmigo
 
