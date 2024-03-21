@@ -16,7 +16,6 @@
 
 Enfocado en ampliar mis conocimientos en **Back-End**:
 
-- Construcción de servicios escalables para aplicaciones web.
 - Uso de **Python** para el desarrollo back-end con Django.
 
 ### 👨‍💻 Proyectos Destacados
