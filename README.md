@@ -5,7 +5,7 @@
 
 - **Lenguajes de Programación:** C++, C#, HTML, CSS, JavaScript.
 - **Tecnologías Front-end:** Angular.
-- **Tecnologías Back-end:** .Net Core.
+- **Tecnologías Back-end:** .Net.
 - **Bases de Datos:** PostgreSQL, Oracle SQL.
 - **Sistemas Operativos:** Linux, Windows.
 - **Herramientas de Desarrollo:** Git, Visual Studio, VSCode.
