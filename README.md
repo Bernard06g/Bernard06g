@@ -24,7 +24,7 @@ Enfocado en ampliar mis conocimientos en **Back-End**:
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/bernard-gonz%C3%A1lez-castro/) y [Gmail](mailto:bernard06g@gmail.com)
+[Gmail](mailto:bernard06g@gmail.com)
 
 
 ### 🚀 Objetivos Futuros
